@@ -5,6 +5,7 @@ weight = 16
 title = "Glossary"
 +++
 
+We need to add the term ASIC to the vocabulary
 
 Can Terry be included.....
 
