@@ -133,6 +133,7 @@ We hope that this glossary of definitions is helpful as you study OpenStack, as 
 - **Open vSwitch** [7] Open vSwitch is a production quality, multilayer virtual switch licensed under the open source Apache 2.0 license. It is designed to enable massive network automation through programmatic extension, while still supporting standard management interfaces and protocols (for example NetFlow, sFlow, SPAN, RSPAN, CLI, LACP, 802.1ag).
 - **OpenStack** [1] A cloud operating system that controls large pools of compute, storage, and networking resources throughout a data center, all managed through a dashboard that gives administrators control while empowering their users to provision resources through a web interface. OpenStack is an open source project licensed under the Apache License 2.0.
 - **Orchestration** [16] An integrated project that orchestrates multiple cloud applications for OpenStack. The project name of Orchestration is heat.
+- *** Terry ***
 - **OSD** [12] Object Storage Device Is a Ceph storage daemon.
 - **PaaS** [1] *Platform-as-a-Service* Provides to the consumer the ability to deploy applications through a programming language or tools supported by the cloud platform provider. Think an Eclipse/Java programming platform provided with no downloads required.
 - **Pause** [3] A state a VM instance may be placed in where no changes occur (no changes in memory, network communications stop, etc); the VM is frozen but not shut down. Also known as a suspended mode.
