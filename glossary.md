@@ -178,3 +178,4 @@ We hope that this glossary of definitions is helpful as you study OpenStack, as 
 - **vSphere** [4] An OpenStack-supported hypervisor.
 - **Working Directory** [17] A single version of the project. These files are pulled out of the compressed database in the Git directory and placed on disk for you to use or modify.
 - **XaaS** [1] Anything as a service.
+- **Ingress** [99] Refers to the movement into a location
