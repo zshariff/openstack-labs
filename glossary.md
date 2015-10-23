@@ -29,6 +29,7 @@ We hope that this glossary of definitions is helpful as you study OpenStack, as 
 - **Bare** [17] A repository without a clear working directory, therefore, cannot be used for development work just maintain commits. The central repository is typically a bare repository. 
 - **Bare Metal Service** [1] OpenStack project that provisions bare metal, as opposed to virtual, machines. The code name for the project is ironic.
 - **Block Device** [11] A device that moves data in the form of blocks. These device nodes interface the devices, such as hard disks, CD-ROM drives, flash drives, and other addressable regions of memory.
+- **Blockhead Device** [11] A device that moves data in the form of blocks between your ears. Also known as mental floss.
 - **BUI** [2] Browser User Interface
 - **Bursting** [18] Utilizing a secondary environment to dynamically build instances on-demand when the primary environment is resource constrained.
 - **Cache Pruner** [10] Image cache has a configurable maximum size. If glance-cache-pruner is running, and the image_cache_max_size is exceeded, it will start running and try to remove images in a stalled or invalid state due to image cache writing failing to complete, or not being written properly. It is recommended that cron is used to fire off glance-cache-pruner at a regular interval.
